@@ -45,6 +45,6 @@ Dashboard Design & Visualization
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img src="Images/Screenshot 2026-02-17 181831" width="45%" />
-  <img src="Images/Screenshot 2026-02-17 181909" width="45%" />
+  <img src="Images/Screenshot 2026-02-17 181831.png" width="45%" />
+  <img src="Images/Screenshot 2026-02-17 181909.png" width="45%" />
 </p>
